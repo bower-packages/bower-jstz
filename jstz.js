@@ -277,7 +277,7 @@
    * jstz.determine_timezone();
    */
   jstz.olson.timezones = {
-      '-720,0'   : 'Pacific/Majuro',
+      '-720,0'   : 'Etc/GMT-12',
       '-660,0'   : 'Pacific/Pago_Pago',
       '-600,1'   : 'America/Adak',
       '-600,0'   : 'Pacific/Honolulu',
