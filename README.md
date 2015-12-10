@@ -10,9 +10,9 @@ In order for it to be picked up by wiredep when automating injection of dependen
 To pull this version
 
 ``` 
-bower info hygieia-bower-jstz
-bower hygieia-bower-jstz#*      cached git://github.com/amitmawkin/bower-jstz.git#1.0.5
-bower hygieia-bower-jstz#*    validate 1.0.5 against git://github.com/amitmawkin/bower-jstz.git#*
+bower info hygieia-jstz-detect
+bower hygieia-jstz-detect#*     cached git://github.com/amitmawkin/bower-jstz.git#1.0.5
+bower hygieia-jstz-detect#*   validate 1.0.5 against git://github.com/amitmawkin/bower-jstz.git#*
 
 {
   name: 'hygieia-bower-jstz',
@@ -20,7 +20,7 @@ bower hygieia-bower-jstz#*    validate 1.0.5 against git://github.com/amitmawkin
   version: '1.0.5'
 }
 
-
 Available versions:
   - 1.0.5
+You can request info for a specific version with 'bower info hygieia-jstz-detect#<version>'
 ```
